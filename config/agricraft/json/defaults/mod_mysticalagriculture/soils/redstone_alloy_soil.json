@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/redstone_alloy_soil.json",
+  "enabled": true,
+  "id": "redstone_alloy_soil",
+  "name": "Redstone Alloy",
+  "varients": [
+    {
+      "item": "enderio:block_alloy",
+      "meta": 3,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

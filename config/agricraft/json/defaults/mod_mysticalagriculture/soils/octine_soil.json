@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/octine_soil.json",
+  "enabled": true,
+  "id": "octine_soil",
+  "name": "Octine",
+  "varients": [
+    {
+      "item": "thebetweenlands:octine_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

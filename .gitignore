@@ -1,4 +1,3 @@
-# Folders to ignore
 /journeymap/
 /dumps/
 /crash-reports/
@@ -13,3 +12,25 @@ screenshots/
 /data/
 /ct_dumps/
 /classes/
+/betweenlands_gallery/
+/backups/
+/asm/
+/astralsorcery/
+/discordsuite/
+/valkyrielib/
+/woot/
+/resourcepacks/
+/downloads/
+/fonts/
+options.txt
+patchouli_data.json
+usercache.json
+usernamecache.json
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+minecraftinstance.json
+crafttweaker.log
+BotaniaVars.dat
+.ReAuth.cfg
+.curseclient
+/config/jei/bookmarks.ini

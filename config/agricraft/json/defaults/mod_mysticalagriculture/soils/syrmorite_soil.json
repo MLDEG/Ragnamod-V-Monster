@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/syrmorite_soil.json",
+  "enabled": true,
+  "id": "syrmorite_soil",
+  "name": "Syrmorite",
+  "varients": [
+    {
+      "item": "thebetweenlands:syrmorite_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

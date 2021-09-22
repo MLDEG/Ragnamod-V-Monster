@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/tier2_inferium_soil.json",
+  "enabled": true,
+  "id": "tier2_inferium_soil",
+  "name": "Tier 2 Inferium",
+  "varients": [
+    {
+      "item": "mysticalagriculture:coal_block",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

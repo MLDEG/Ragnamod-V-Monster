@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/amber_soil.json",
+  "enabled": true,
+  "id": "amber_soil",
+  "name": "Amber",
+  "varients": [
+    {
+      "item": "biomesoplenty:gem_block",
+      "meta": 7,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

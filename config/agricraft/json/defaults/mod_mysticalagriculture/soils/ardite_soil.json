@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/ardite_soil.json",
+  "enabled": true,
+  "id": "ardite_soil",
+  "name": "Ardite",
+  "varients": [
+    {
+      "item": "tconstruct:metal",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

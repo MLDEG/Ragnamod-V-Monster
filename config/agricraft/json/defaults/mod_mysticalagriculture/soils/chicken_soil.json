@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/chicken_soil.json",
+  "enabled": true,
+  "id": "chicken_soil",
+  "name": "Chicken",
+  "varients": [
+    {
+      "item": "hatchery:manure_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

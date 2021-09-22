@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/manyullyn_soil.json",
+  "enabled": true,
+  "id": "manyullyn_soil",
+  "name": "Manyullyn",
+  "varients": [
+    {
+      "item": "tconstruct:metal",
+      "meta": 2,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

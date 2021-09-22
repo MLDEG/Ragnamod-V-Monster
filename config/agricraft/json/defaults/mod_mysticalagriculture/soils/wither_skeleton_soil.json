@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/wither_skeleton_soil.json",
+  "enabled": true,
+  "id": "wither_skeleton_soil",
+  "name": "Wither Skeleton",
+  "varients": [
+    {
+      "item": "darkutils:wither_block",
+      "meta": 5,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

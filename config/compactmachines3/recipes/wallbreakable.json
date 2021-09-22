@@ -1,0 +1,68 @@
+{
+  "name": "compactmachines3:wallbreakable",
+  "target-block": "compactmachines3:wallbreakable",
+  "target-count": 16,
+  "duration": 200,
+  "catalyst": "conarm:armor_plate",
+  "catalyst-nbt": "{Material:\"obsidian\"}",
+
+  "input-types": {
+    "a": {
+      "id": "appliedenergistics2:sky_stone_brick",
+      "meta": 0
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]  
+}

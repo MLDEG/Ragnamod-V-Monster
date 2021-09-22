@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/amethyst_soil.json",
+  "enabled": true,
+  "id": "amethyst_soil",
+  "name": "Amethyst",
+  "varients": [
+    {
+      "item": "biomesoplenty:gem_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

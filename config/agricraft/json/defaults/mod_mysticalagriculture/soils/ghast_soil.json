@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/ghast_soil.json",
+  "enabled": true,
+  "id": "ghast_soil",
+  "name": "Ghast",
+  "varients": [
+    {
+      "item": "minecraft:concrete",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

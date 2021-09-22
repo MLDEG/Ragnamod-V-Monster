@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/coal_soil.json",
+  "enabled": true,
+  "id": "coal_soil",
+  "name": "Coal",
+  "varients": [
+    {
+      "item": "minecraft:coal_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

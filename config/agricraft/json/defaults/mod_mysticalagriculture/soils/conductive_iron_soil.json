@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/conductive_iron_soil.json",
+  "enabled": true,
+  "id": "conductive_iron_soil",
+  "name": "Conductive Iron",
+  "varients": [
+    {
+      "item": "enderio:block_alloy",
+      "meta": 4,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

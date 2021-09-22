@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/slimy_bone_soil.json",
+  "enabled": true,
+  "id": "slimy_bone_soil",
+  "name": "Slimy Bone",
+  "varients": [
+    {
+      "item": "thebetweenlands:slimy_bone_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

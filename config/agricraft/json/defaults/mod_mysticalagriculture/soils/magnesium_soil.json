@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/magnesium_soil.json",
+  "enabled": true,
+  "id": "magnesium_soil",
+  "name": "Magnesium",
+  "varients": [
+    {
+      "item": "nuclearcraft:ingot_block",
+      "meta": 7,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

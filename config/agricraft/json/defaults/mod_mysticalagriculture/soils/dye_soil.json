@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/dye_soil.json",
+  "enabled": true,
+  "id": "dye_soil",
+  "name": "Dye",
+  "varients": [
+    {
+      "item": "ceramics:rainbow_clay",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

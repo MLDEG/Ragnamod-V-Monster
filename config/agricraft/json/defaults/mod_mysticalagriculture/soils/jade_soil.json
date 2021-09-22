@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/jade_soil.json",
+  "enabled": true,
+  "id": "jade_soil",
+  "name": "Jade",
+  "varients": [
+    {
+      "item": "erebus:jade_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

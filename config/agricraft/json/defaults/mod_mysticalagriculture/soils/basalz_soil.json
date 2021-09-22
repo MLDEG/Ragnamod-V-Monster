@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/basalz_soil.json",
+  "enabled": true,
+  "id": "basalz_soil",
+  "name": "Basalz",
+  "varients": [
+    {
+      "item": "botania:altgrass",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/spider_soil.json",
+  "enabled": true,
+  "id": "spider_soil",
+  "name": "Spider",
+  "varients": [
+    {
+      "item": "minecraft:black_glazed_terracotta",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

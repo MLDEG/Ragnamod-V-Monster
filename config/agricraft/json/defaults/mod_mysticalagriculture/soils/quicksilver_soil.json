@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/quicksilver_soil.json",
+  "enabled": true,
+  "id": "quicksilver_soil",
+  "name": "Quicksilver",
+  "varients": [
+    {
+      "item": "thaumcraft:plank_silverwood",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

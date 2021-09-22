@@ -1,0 +1,288 @@
+[
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_wyvern,2",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 64000000,
+        "tier": 1,
+        "ingredients": [
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_draconic,2",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 128000000,
+        "tier": 2,
+        "ingredients": [
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "solarflux:solar_panel_chaotic",
+        "catalyst": "draconicevolution:chaotic_core"
+    },
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_chaotic,2",
+        "catalyst": "draconicevolution:chaotic_core",
+        "energy": 256000000,
+        "tier": 3,
+        "ingredients": [
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 6250000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:dragon_heart"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 6250000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:dragon_heart"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 6250000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:dragon_heart"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 6250000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:draconic_block",
+            "draconicevolution:dragon_heart"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "projecte:item.pe_gem_armor_3",
+        "energy": 625000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "projecte:item.pe_gem_armor_2",
+        "energy": 625000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "projecte:item.pe_gem_armor_1",
+        "energy": 625000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "projecte:item.pe_gem_armor_0",
+        "energy": 625000,
+        "tier": 1,
+        "ingredients": [
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_energy_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:wyvern_core",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block",
+            "draconicevolution:draconium_block"
+        ]
+    }
+]

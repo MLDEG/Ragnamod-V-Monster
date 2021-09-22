@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/platinum_soil.json",
+  "enabled": true,
+  "id": "platinum_soil",
+  "name": "Platinum",
+  "varients": [
+    {
+      "item": "thermalfoundation:storage",
+      "meta": 6,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

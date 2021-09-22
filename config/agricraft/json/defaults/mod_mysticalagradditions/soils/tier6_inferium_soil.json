@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagradditions/soils/tier6_inferium_soil.json",
+  "enabled": true,
+  "id": "tier6_inferium_soil",
+  "name": "Tier 6 Inferium",
+  "varients": [
+    {
+      "item": "mysticalagradditions:storage",
+      "meta": 2,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

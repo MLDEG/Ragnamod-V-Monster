@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/thorium_soil.json",
+  "enabled": true,
+  "id": "thorium_soil",
+  "name": "Thorium",
+  "varients": [
+    {
+      "item": "nuclearcraft:ingot_block",
+      "meta": 3,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

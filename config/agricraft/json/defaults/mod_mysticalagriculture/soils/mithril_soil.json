@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/mithril_soil.json",
+  "enabled": true,
+  "id": "mithril_soil",
+  "name": "Mithril",
+  "varients": [
+    {
+      "item": "thermalfoundation:storage",
+      "meta": 8,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

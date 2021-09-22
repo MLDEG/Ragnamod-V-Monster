@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/creeper_soil.json",
+  "enabled": true,
+  "id": "creeper_soil",
+  "name": "Creeper",
+  "varients": [
+    {
+      "item": "tconstruct:brownstone",
+      "meta": 8,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

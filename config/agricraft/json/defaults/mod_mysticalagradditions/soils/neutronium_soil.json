@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagradditions/soils/neutronium_soil.json",
+  "enabled": true,
+  "id": "neutronium_soil",
+  "name": "Neutronium",
+  "varients": [
+    {
+      "item": "avaritia:block_resource",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

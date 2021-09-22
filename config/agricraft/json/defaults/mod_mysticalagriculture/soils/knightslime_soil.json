@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/knightslime_soil.json",
+  "enabled": true,
+  "id": "knightslime_soil",
+  "name": "Knightslime",
+  "varients": [
+    {
+      "item": "tconstruct:metal",
+      "meta": 3,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

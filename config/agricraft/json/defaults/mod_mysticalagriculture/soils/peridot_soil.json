@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/peridot_soil.json",
+  "enabled": true,
+  "id": "peridot_soil",
+  "name": "Peridot",
+  "varients": [
+    {
+      "item": "biomesoplenty:gem_block",
+      "meta": 2,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

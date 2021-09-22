@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagradditions/soils/dragon_egg_soil.json",
+  "enabled": true,
+  "id": "dragon_egg_soil",
+  "name": "Dragon Egg",
+  "varients": [
+    {
+      "item": "ceramics:clay_hard",
+      "meta": 4,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

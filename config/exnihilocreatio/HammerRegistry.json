@@ -1,0 +1,128 @@
+{
+  "ore:cobblestone": [
+    {
+      "item": "minecraft:gravel:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "extrautils2:compressedcobblestone:0": [
+    {
+      "item": "extrautils2:compressedgravel:0",
+      "amount": 1,
+      "miningLevel": 2,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:gravel": [
+    {
+      "item": "minecraft:sand:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "extrautils2:compressedgravel:0": [
+    {
+      "item": "extrautils2:compressedsand:0",
+      "amount": 1,
+      "miningLevel": 2,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:sand": [
+    {
+      "item": "exnihilocreatio:block_dust:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "extrautils2:compressedsand:0": [
+    {
+      "item": "excompressum:compressed_block:0",
+      "amount": 1,
+      "miningLevel": 2,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "appliedenergistics2:sky_stone_block:0": [
+    {
+      "item": "exnihilocreatio:block_skystone_crushed:0",
+      "amount": 1,
+      "miningLevel": 3,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:netherrack": [
+    {
+      "item": "exnihilocreatio:block_netherrack_crushed:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "extrautils2:compressednetherrack:0": [
+    {
+      "item": "exnihilocreatio:block_netherrack_crushed:0",
+      "amount": 9,
+      "miningLevel": 1,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:endstone": [
+    {
+      "item": "exnihilocreatio:block_endstone_crushed:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "excompressum:compressed_block:10": [
+    {
+      "item": "exnihilocreatio:block_endstone_crushed:0",
+      "amount": 9,
+      "miningLevel": 1,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:stoneAndesite": [
+    {
+      "item": "exnihilocreatio:block_andesite_crushed:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:stoneDiorite": [
+    {
+      "item": "exnihilocreatio:block_diorite_crushed:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ],
+  "ore:stoneGranite": [
+    {
+      "item": "exnihilocreatio:block_granite_crushed:0",
+      "amount": 1,
+      "miningLevel": 0,
+      "chance": 1.0,
+      "fortuneChance": 0.0
+    }
+  ]
+}

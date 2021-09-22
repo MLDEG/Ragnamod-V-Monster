@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/refined_obsidian_soil.json",
+  "enabled": true,
+  "id": "refined_obsidian_soil",
+  "name": "Refined Obsidian",
+  "varients": [
+    {
+      "item": "mekanism:basicblock",
+      "meta": 2,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

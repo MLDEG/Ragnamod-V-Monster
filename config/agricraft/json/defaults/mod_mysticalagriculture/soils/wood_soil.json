@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/wood_soil.json",
+  "enabled": true,
+  "id": "wood_soil",
+  "name": "Wood",
+  "varients": [
+    {
+      "item": "chisel:planks-oak",
+      "meta": 6,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

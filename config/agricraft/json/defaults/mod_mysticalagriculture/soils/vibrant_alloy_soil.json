@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/vibrant_alloy_soil.json",
+  "enabled": true,
+  "id": "vibrant_alloy_soil",
+  "name": "Vibrant Alloy",
+  "varients": [
+    {
+      "item": "enderio:block_alloy",
+      "meta": 2,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

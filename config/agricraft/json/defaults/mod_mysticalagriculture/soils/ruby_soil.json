@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/ruby_soil.json",
+  "enabled": true,
+  "id": "ruby_soil",
+  "name": "Ruby",
+  "varients": [
+    {
+      "item": "biomesoplenty:gem_block",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagradditions/soils/awakened_draconium_soil.json",
+  "enabled": true,
+  "id": "awakened_draconium_soil",
+  "name": "Awakened Draconium",
+  "varients": [
+    {
+      "item": "draconicevolution:draconic_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

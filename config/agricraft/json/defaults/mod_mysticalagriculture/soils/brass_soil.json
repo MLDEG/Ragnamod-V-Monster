@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/brass_soil.json",
+  "enabled": true,
+  "id": "brass_soil",
+  "name": "Brass",
+  "varients": [
+    {
+      "item": "thaumcraft:metal_brass",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

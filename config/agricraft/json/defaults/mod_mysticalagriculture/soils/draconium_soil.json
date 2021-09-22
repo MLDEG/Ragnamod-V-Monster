@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/draconium_soil.json",
+  "enabled": true,
+  "id": "draconium_soil",
+  "name": "Draconium",
+  "varients": [
+    {
+      "item": "draconicevolution:draconium_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

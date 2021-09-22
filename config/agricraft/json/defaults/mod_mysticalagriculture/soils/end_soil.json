@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/end_soil.json",
+  "enabled": true,
+  "id": "end_soil",
+  "name": "End",
+  "varients": [
+    {
+      "item": "chisel:endstone",
+      "meta": 11,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

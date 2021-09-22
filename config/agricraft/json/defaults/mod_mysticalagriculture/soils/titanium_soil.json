@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/titanium_soil.json",
+  "enabled": true,
+  "id": "titanium_soil",
+  "name": "Titanium",
+  "varients": [
+    {
+      "item": "libvulpes:metal0",
+      "meta": 7,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

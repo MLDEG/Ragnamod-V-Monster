@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/tin_soil.json",
+  "enabled": true,
+  "id": "tin_soil",
+  "name": "Tin",
+  "varients": [
+    {
+      "item": "thermalfoundation:storage",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

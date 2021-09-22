@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/rubber_soil.json",
+  "enabled": true,
+  "id": "rubber_soil",
+  "name": "Rubber",
+  "varients": [
+    {
+      "item": "quark:quilted_wool",
+      "meta": 15,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

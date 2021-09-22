@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/sky_stone_soil.json",
+  "enabled": true,
+  "id": "sky_stone_soil",
+  "name": "Sky Stone",
+  "varients": [
+    {
+      "item": "appliedenergistics2:sky_stone_block",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

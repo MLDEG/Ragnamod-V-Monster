@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/grains_of_infinity_soil.json",
+  "enabled": true,
+  "id": "grains_of_infinity_soil",
+  "name": "Grains Of Infinity",
+  "varients": [
+    {
+      "item": "enderio:block_infinity",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/glowstone_ingot_soil.json",
+  "enabled": true,
+  "id": "glowstone_ingot_soil",
+  "name": "Glowstone Ingot",
+  "varients": [
+    {
+      "item": "mekanism:basicblock",
+      "meta": 4,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

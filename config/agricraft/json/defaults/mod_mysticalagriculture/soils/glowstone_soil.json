@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/glowstone_soil.json",
+  "enabled": true,
+  "id": "glowstone_soil",
+  "name": "Glowstone",
+  "varients": [
+    {
+      "item": "chisel:glowstone2",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

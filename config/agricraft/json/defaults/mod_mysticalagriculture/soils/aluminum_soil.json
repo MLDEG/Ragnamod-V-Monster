@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/aluminum_soil.json",
+  "enabled": true,
+  "id": "aluminum_soil",
+  "name": "Aluminum",
+  "varients": [
+    {
+      "item": "thermalfoundation:storage",
+      "meta": 4,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

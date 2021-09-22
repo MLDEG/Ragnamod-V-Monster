@@ -1,0 +1,18 @@
+{
+  "path": "mod_mysticalagriculture/soils/dilithium_soil.json",
+  "enabled": true,
+  "id": "dilithium_soil",
+  "name": "Dilithium",
+  "varients": [
+    {
+      "item": "advancedrocketry:launchpad",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ]
+}

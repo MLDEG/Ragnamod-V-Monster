@@ -1,0 +1,1198 @@
+{
+    "registryname": "blood_altar",
+    "localizedname": "Blood Altar",
+    "color": "4c4b4b",
+    "parts": [
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@7"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "modularmachinery:blockcasing@3"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "bloodmagic:blood_rune@9"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@6"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@7"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "elements": [
+                "bloodmagic:ritual_stone@6"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "bloodmagic:decorative_brick@2"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "bloodarsenal:blood_infused_iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 6,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "bloodmagic:decorative_brick@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "elements": [
+                "bloodmagic:blood_rune@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 6,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 4,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "elements": "casings_item_output"
+        },
+        {
+            "x": -1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 0,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "bloodarsenal:blood_infused_iron_block@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "bloodarsenal:blood_infused_iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "bloodarsenal:blood_infused_iron_block@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 4,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "elements": "casings_item_input"
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 0,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:heart_blood@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 4,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickslab1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 1,
+            "elements": [
+                "abyssalcraft:dreadbrickslab1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickslab1@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 4,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "bloodmagic:blood_rune@9"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "bloodmagic:decorative_brick@2"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "z": 5,
+            "elements": [
+                "abyssalcraft:dreadbrickslab1@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 3,
+            "elements": [
+                "bloodmagic:altar@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "bloodarsenal:blood_infused_iron_block@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@6"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "bloodmagic:decorative_brick@2"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@7"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "elements": [
+                "bloodmagic:blood_rune@9"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 6,
+            "elements": "casings_fluid_input"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "modularmachinery:blockcasing@1"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "elements": "casings_energy_input"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@7"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "elements": [
+                "bloodmagic:ritual_stone@6"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 0,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 4,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "contenttweaker:slate_origin@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "modularmachinery:blockcasing@4"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 6,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "elements": [
+                "bloodmagic:blood_rune@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": -3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": -1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "bloodarsenal:blood_stained_glass@0"
+            ]
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 5,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "z": 6,
+            "elements": [
+                "minecraft:beacon@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 4,
+            "z": 2,
+            "elements": [
+                "abyssalcraft:dreadbrickfence@0"
+            ]
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": 1,
+            "elements": [
+                "bloodmagic:life_essence@1"
+            ]
+        }
+    ]}
